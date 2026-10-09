@@ -1,0 +1,1 @@
+console.log("LARP demo script running in GitHub Actions...");
